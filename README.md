@@ -7,3 +7,6 @@ A simple web-based dice game where refreshing the page generates two random valu
 - HTML
 - CSS
 - JavaScript
+
+## Deployemnt link
+https://shreyasm-codes.github.io/Dice-Game/
